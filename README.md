@@ -53,7 +53,7 @@
 
 #### `$ git clone `
  
-    In the project directory, you can run: ## link do repositorio ##
+    In the project directory, you can run: https://github.com/herbertgaribaldi/website-trvl-react.git
 
 #### `npm install`
 
@@ -80,5 +80,3 @@
     Your app is ready to be deployed!
  
 #### `npm run eject`
-
-#### Or visit ## link do github pages ##
