@@ -44,7 +44,7 @@
 
 **:atom_symbol: React** <br>
 **:orange_book: JavaScript** <br>
-**:hook: React Hooks** <br>
+**:wrench: React Hooks** <br>
 **:compass: React Router** <br>
 **:framed_picture: HTML and CSS** <br>
 
